@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LostNfound" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/steelBlue</item>
+        <item name="colorSecondary">@color/deepSteelBlue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/softWhite</item>
+        <item name="android:colorBackground">@color/midnightBlue</item>
+        <item name="android:textColorPrimary">@color/softWhite</item>
+    </style>
+
+
+    <style name="CustomCardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/navyBlue</item>
+    </style>
+
+    <style name="MySpinnerStyle" parent="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="android:popupBackground">@color/navyBlue</item>
+        <item name="android:textColor">@color/softWhite</item>
+    </style>
+</resources>
