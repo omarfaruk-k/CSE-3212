@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7921399011",
+    "project_id": "lostnfound-ofk",
+    "storage_bucket": "lostnfound-ofk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7921399011:android:e3c04b80c5177e981341d6",
+        "android_client_info": {
+          "package_name": "omarfaruk.lostnfound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEUE_-9tK-cyJthh47urcCTrJBjvD1l7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
